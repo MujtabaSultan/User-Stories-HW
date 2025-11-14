@@ -1,0 +1,51 @@
+AS A LOGGED IN USER , I WANT TO BE ABLE TO CUSTOMIZE MY INSTAGRAM FEED SO THAT I ONLY GET THE TYPE OF CONTENT IM INTERESTED IN ON MY FOR YOU PAGE
+
+given that im a logged in user when i veiw my for you page then i should be able to adjust my filter options such as not interested and interested.
+
+given that i like specific posts with specific hashtags when i view my for you page then i should get more posts with the same hashtages of the posts i like on .
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+as a user i want to be able to hide specific type of content off my for you page so that i dont see content that im uninterested in.
+
+given that im a logged in user when i open the filter settings then i should be able to mute specific hashtags to avoid its content.
+
+given that im a logged in user when i block people profiles then their profiles shouldnt appear on my for you page .
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+as a logged in user i want to be able to reset my preferences to default so that i get all type of trendy content on my for you page 
+
+given that im a logged in user , when i reset my preference to the default , then i should be able to have a defaulted for you page with mixed content 
+
+given that im a logged in user , when i clear my blocked accounts sections , then i should be able to view all the profiles of the people i blocked 
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+as a user i want to have an option to set my mood so that i get content on my for you page that suits the mood i selected 
+
+given that im a logged in user when i select a specific mood then my for you page should give me a feed fitting my mood 
+
+given that im a logged in user , when i change my mood , the system should automatically pick up the change and update the feed accordingaly 
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+as a user i want to be able to apply specific filters for specific periods on the day 
+
+given that ima logged in user when i set scheduled filters then i should get content that only pass the filter criteria during the scheduled timing
+
+fiven that im a logged in user , when i try to set scheduled filter then i should have my content filtered during the specific time period that is picked
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+as a user i want to get suggestions based on the content i like and people i follow  
+
+given that im a logged in user , when i like specific content , i should have content of similiar hastag suggested to me 
+
+given that im a logged in user with friends , when my friends like specific posts i should get the content they liked suggested to me .
